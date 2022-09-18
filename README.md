@@ -1,5 +1,9 @@
 ### Hey there, welcome to my profile! Enjoy the view👋
  ##
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?       font=Fira+Code&pause=1000&width=435&lines=Hey%2C+my+name+is+Erick!;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
 <div align="center">
   <a href="https://github.com/erickgms01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickgms01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia"/>
