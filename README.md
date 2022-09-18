@@ -2,7 +2,7 @@
  ##
 <div align="center">
   <a href="https://github.com/erickgms01">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickgms01&theme=dark&show_icons=true/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgms01&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
