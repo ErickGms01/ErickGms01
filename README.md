@@ -32,5 +32,5 @@
 
 <div align="center">
   <h3>🎯 Objetivos Futuros 🚀</h3>
-  <p>Estou determinado a continuar minha jornada na programação e aprofundar meus conhecimentos em áreas como desenvolvimento web e criação de jogos.</p>
+  <p>Estou determinado a continuar minha jornada na programação e aprofundar meus conhecimentos em áreas como desenvolvimento IOS e criação de jogos.</p>
 </div>
