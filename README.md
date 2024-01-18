@@ -4,7 +4,6 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=erickgms01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="GitHub Stats">
     <img alt="tigre-correndo" src="icons/tigre-correndo.gif" width="200px" style="margin-left: 20px;">
   </div>
 </div>
