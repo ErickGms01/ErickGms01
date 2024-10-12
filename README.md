@@ -2,16 +2,11 @@
   <h2>👋 Olá, seja bem-vindo ao meu mundo!</h2>
 </div>
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img alt="tigre-correndo" src="icons/tigre-correndo.gif" width="200px" style="margin-left: 20px;">
-  </div>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">    
+  <img alt="banner-profissional" src="icons/banner-pro.png" width="100%" ">
 </div>
-
-<p align="center">
-  <em>
-    "Eu sou o Erick, e é uma honra compartilhar minha jornada na programação com você. Com meus 17 anos de idade, meu encontro com a programação através da escola despertou uma paixão que continua a crescer. Cada dia é uma nova oportunidade para aprimorar minhas habilidades e buscar a excelência em tudo que faço."
-  </em>
+<p></p>
+<p align="center"> Muito prazer! Eu me chamo Erick Gomes e comecei minha jornada na programação aos 16 anos. Desde então, venho me aprimorando constantemente. Já trabalhei em projetos de pesquisa, além de desenvolver soluções para mobile, web e outras áreas. Atualmente, meu foco está no desenvolvimento web e desenvolvimento mobile para iOS. Fique a vontade para ver meus códigos e qualquer dúvida só chamar nas minhas redes sociais! Valeu!
 </p>
 <div align="center">
   <h3>🚀 Tecnologias e Ferramentas 🛠️</h3>
@@ -30,9 +25,4 @@
   <a href="https://www.instagram.com/imerick.01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:erickderi98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/erick-gomes-1b4135209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
-
-<div align="center">
-  <h3>🎯 Objetivos Futuros 🚀</h3>
-  <p>Estou determinado a continuar minha jornada na programação e aprofundar meus conhecimentos em áreas como desenvolvimento IOS e criação de jogos.</p>
 </div>
